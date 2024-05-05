@@ -1,5 +1,7 @@
 # Syed Naveed's Portfolio
 
+![Profile Picture](https://avatars.githubusercontent.com/u/47447068?v=4)
+
 ## Summary
 Seasoned Software Engineer with a track record of 3 years, dedicated to delivering robust and scalable solutions in dynamic environments. Proficient in JavaScript, NodeJs, Git, ExpressJs, AWS, PostgreSQL, MySQL, and Angular2+. Demonstrated problem-solving skills and a commitment to staying abreast of industry trends and best practices. Known for collaborative prowess, thriving in cross-functional teams where I contribute innovative ideas and drive projects from inception to deployment.
 
@@ -36,3 +38,50 @@ Implemented a robust microservices architecture using Node.js Express, breaking 
 - **GitHub:** [github.com/syedn8991](https://github.com/syedn8991)
 
 Feel free to reach out for collaborations or inquiries!
+
+<style>
+/* Add your CSS styles here */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f7f7f7;
+}
+
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1,
+h2,
+h3 {
+  color: #333;
+}
+
+p {
+  color: #666;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+</style>
