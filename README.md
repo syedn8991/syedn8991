@@ -1,18 +1,38 @@
-<h1 align="center">Hi 👋, I'm Syed Naveed</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+# Syed Naveed's Portfolio
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedn8991&label=Profile%20views&color=0e75b6&style=flat" alt="syedn8991" /> </p>
+## Summary
+Seasoned Software Engineer with a track record of 3 years, dedicated to delivering robust and scalable solutions in dynamic environments. Proficient in JavaScript, NodeJs, Git, ExpressJs, AWS, PostgreSQL, MySQL, and Angular2+. Demonstrated problem-solving skills and a commitment to staying abreast of industry trends and best practices. Known for collaborative prowess, thriving in cross-functional teams where I contribute innovative ideas and drive projects from inception to deployment.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedn8991" alt="syedn8991" /></a> </p>
+## Skills
+- **Languages:** JavaScript, NodeJs, SQL, HTML/CSS.
+- **Frameworks:** ExpressJs, Angular2+.
+- **DevOps:** Git, AWS(EC2,S3,Lambda), Docker, Linux.
+- **Tools:** Postman, Visual Studio Code, PyCharm.
+- **Database:** PostgreSQL, Redis, MySQL.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/syed-naveed-9a9b94179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/syed-naveed-9a9b94179" height="30" width="40" /></a>
-</p>
+## Work Experience
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Data Template Infotech Ltd, Bangalore, Karnataka
+**Software Engineer** (Jan 2022 - Apr 2024)
+- Enhanced user satisfaction on the Gorilla Games website by managing multiple Iframes, including Jackpot, P2P, USSD, and Agent interfaces.
+- Led the development of the P2P application, architecting robust REST APIs for seamless data interchange between backend and frontend systems.
+- Successfully developed CRG-USSD microservice application for sports and competition betting, integrating with USSD technology from multiple telecom providers.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedn8991&show_icons=true&locale=en&layout=compact" alt="syedn8991" /></p>
+**Associate Software Engineer** (Jul 2021 - Jan 2022)
+- Improved user experience on the Asset Tracking system by creating intuitive frontend interfaces.
+- Contributed to a script transformation project at Viasat Inc., optimizing data processing and transformation in a Linux environment.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedn8991&show_icons=true&locale=en" alt="syedn8991" /></p>
+## Project Experience
+
+### CRG-Agent
+Spearheaded the end-to-end development of the Agent Application, employing Node.js for the robust backend and Angular for the responsive frontend.
+
+### CRG (Cheza Rwanda Games) USSD
+Implemented a robust microservices architecture using Node.js Express, breaking down the CRG-USSD application into multiple Microservices.
+
+## Contact Information
+- **Email:** syedn8991@gmail.com
+- **LinkedIn:** [linkedin.com/in/syed-naveed-1998-ag](https://www.linkedin.com/in/syed-naveed-1998-ag/)
+- **GitHub:** [github.com/syedn8991](https://github.com/syedn8991)
+
+Feel free to reach out for collaborations or inquiries!
